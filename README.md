@@ -1,4 +1,4 @@
-About Me:</br>
+
 Hi 👋 I’m a Full-Stack Developer<br>I build scalable web apps, clean UIs, and production-ready backends.<br>Strong focus on performance, maintainability, and real-world problem solving.<br>I enjoy turning complex ideas into simple, usable products.<br> About Me<br>Passionate developer with hands-on experience in MERN Stack, React, Node.js, MongoDB, and modern frontend architectures.<br>Currently exploring backend scalability, system design, and clean code practices.<br>I believe good software is built once, but maintained forever.<br> Tech Stack<br>Frontend: React, JavaScript, HTML, CSS<br>Backend: Node.js, Express<br>Database: MongoDB<br>Tools: Git, GitHub, REST APIs<br>Currently Learning: Advanced Backend & System Design<br> What I’m Working On<br>Building real-world projects with authentication, dashboards, CRUD systems, and APIs.<br>Focused on writing code that is readable, reusable, and production-ready.<br> <br>Code. Ship. Improve. Repeat.<br>No shortcuts. No magic libraries. Just solid engineering.<br> <br>Full-Stack Developer | MERN | Building real-world products
 
 
